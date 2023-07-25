@@ -1,0 +1,9 @@
+/* @font-face {
+    font-family: 'work';
+    src: url('../fonts/Work_Sans/static/WorkSans-SemiBold.ttf');
+} */
+
+@font-face {
+    font-family: 'Plus Jakarta Sans';
+    src: url('../font/Plus_Jakarta_Sans/static/PlusJakartaSans-Medium.ttf');
+}

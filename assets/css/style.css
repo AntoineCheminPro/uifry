@@ -1,0 +1,272 @@
+body {
+    font-family: 'Plus Jakarta Sans';
+    max-width: 100vh;
+}
+
+h1 {
+    font-family: 'Plus Jakarta Sans';
+    font-weight: 700 !important;
+    font-size: 38px !important;
+    line-height: 120% !important;
+    /* or 46px */
+    color: #201C44;
+
+}
+
+h4 {
+    height: 24px;
+    background-color: #3C3679;
+    font-family: 'Plus Jakarta Sans';
+    font-weight: 700 !important;
+    font-size: 14px !important;
+    line-height: 18px !important;
+    color: white !important;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+}
+
+.headerTxt {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #000000;
+}
+
+.radius {
+    border-radius: 50px !important;
+    height: 100%;
+    width: 100%;
+}
+
+
+.btn-pink {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+    padding: 8px 12px;
+    border: none;
+
+    width: 30vw;
+    max-width: 140px;
+    height: 8vh;
+    max-height: 50px;
+
+    background: #FAE0E1;
+    border-radius: 5px;
+
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+
+    color: #131126;
+}
+
+.btn-pink2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px;
+    padding: 8px 12px;
+    border: none;
+
+    width: 84vw !important;
+    max-width: 140px;
+    height: 8vh;
+    max-height: 50px;
+
+    background: #FAE0E1;
+    border-radius: 5px;
+
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+
+    color: #131126;
+}
+
+.btn-arrow {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: white;
+    align-items: center;
+    padding: 25px 12px;
+
+    width: 8vw;
+    height: 8vw;
+    max-height: 48px;
+    max-width: 48px;
+
+    border: 1px solid #FAE0E1;
+    border-radius: 5px;
+}
+
+.cta {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+    align-items: center;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 28px;
+
+    color: #131126;
+}
+
+.pink {
+    background-color: #FAE0E1;
+    width: 65% !important;
+    height: 40vh;
+    position: relative;
+    margin: 0 auto;
+}
+
+.bg-pink-icon {
+    background-color: #FAE0E1;
+    width: 8vh;
+    height: 8vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.girl {
+    margin: -4vw -6vh;
+    height: 105%;
+}
+
+.girl2 {
+    height: 110%;
+    margin: -10% auto;
+}
+
+
+.man {
+    height: 105%;
+    margin: -7% 0%;
+}
+
+
+.star-icon {
+    width: 8vh;
+    height: 8vh;
+}
+
+.new-visitors {
+    position: absolute;
+    bottom: 40%;
+    left: -30%;
+}
+
+.cursed-arrow {
+    position: absolute;
+    width: 16vw;
+    right: -10%;
+}
+
+.cursed-arrow2 {
+    position: absolute;
+    width: 16vw;
+    top: 20%;
+    left: -4%;
+}
+
+.cursed-arrow3 {
+    position: absolute;
+
+    width: 16vw;
+    top: 20%;
+    left: 5%;
+}
+
+.blue-flame {
+    position: absolute;
+    width: 16vw;
+    height: auto;
+    top: 10%;
+    right: -10%;
+    fill: "none"
+}
+
+.media-icon {
+    height: 7vh;
+    width: 7vh;
+}
+
+.grey-card {
+    width: 85% !important;
+    height: 60vh;
+    position: relative;
+    background-color: #F5F5F5;
+    margin: auto;
+
+}
+.bg-grey {
+    background-color: white !important;
+    border: none !important;
+}
+
+
+
+.grey-card2 {
+    width: 830 !important;
+    height: 60vh;
+    position: relative;
+    background-color: #F5F5F5;
+    margin: auto;
+
+}
+
+.no-color {
+    width: 85% !important;
+    height: 55vh;
+    position: relative;
+
+}
+
+.blue-star {
+    position: absolute;
+    top: 10%;
+    right: -8%;
+}
+
+.bg-purple {
+    margin-top: 50px !important;
+    margin-bottom: 50px !important;
+
+    background-color: #3C3679;
+    border-radius: 5px;
+    color: white;
+}
+
+.purple-icon {
+    height: 3rem;
+}
+
+.purple-txt {
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+}
+
+.input-icon{
+    width: auto !important;
+    height: 100% !important;
+    margin: 5px;
+}

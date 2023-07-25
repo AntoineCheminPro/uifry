@@ -1,32 +1,32 @@
 @media screen and (max-width: 767px) {
 
     /* Displays */
-    .sm-margin-flex {
+    .sm-flex {
         display: flex;
     }
 
-    .sm-margin-hidden {
+    .sm-hidden {
         display: none;
     }
 
-    .sm-margin-inline-block {
+    .sm-inline-block {
         display: inline-block;
     }
 
-    .sm-margin-block {
+    .sm-block {
         display: block;
     }
 
     /* Flex directions */
-    .sm-margin-row {
+    .sm-row {
         flex-direction: row;
     }
 
-    .sm-margin-column {
+    .sm-column {
         flex-direction: column;
     }
 
-    .sm-margin-column-reverse {
+    .sm-column-reverse {
         flex-direction: column-reverse;
     }
 

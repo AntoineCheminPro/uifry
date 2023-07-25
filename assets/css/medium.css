@@ -1,2 +1,212 @@
-@media screen and (min-width: 769px) and (max-width : 911px) {
+@media screen and (min-width: 768px) {
+
+    body {
+        max-width: 1440px;
+        background-color: #F5F5F5 !important;
+    }
+
+
+    .cursed-arrow {
+        position: absolute;
+        width: 6vw;
+        margin: 0% 4%;
+    }
+
+    .cursed-arrow2 {
+        position: absolute;
+        width: 5vw;
+        height: auto;
+        margin: -10% 58%;
+    }
+
+    .cursed-arrow3 {
+        position: absolute;
+        width: 6vw;
+        top: 8%;
+        left: 25%;
+    }
+
+
+    .w-md-75 {
+        width: 75%;
+    }
+
+    .w-md-90 {
+        width: 90% !important;
+    }
+
+    .girl {
+        margin: -9% -23%;
+        height: 108%;
+    }
+
+    .girl2 {
+        margin: auto;
+    }
+
+    .man {
+        height: 104%;
+        margin: -25% auto;
+    }
+
+    .grey-card {
+        height: 55vh;
+        position: relative;
+        background-color: #F5F5F5;
+        margin: auto;
+
+    }
+
+    .grey-card2 {
+        width: 75% !important;
+        height: 58vh;
+        position: relative;
+        background-color: #F5F5F5;
+        margin: auto -100px;
+    }
+
+    .pink {
+        background-color: #FAE0E1;
+        width: 40% !important;
+        height: 58vh;
+        position: relative;
+    }
+
+    .no-color {
+        width: 45% !important;
+        height: 55vh;
+        position: relative;
+    }
+
+    h1 {
+        font-family: 'Plus Jakarta Sans';
+        font-weight: 700 !important;
+        font-size: 54px !important;
+        line-height: 120% !important;
+        color: #201C44;
+    }
+
+    .headerTxt {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 28px;
+        color: #000000;
+    }
+
+    h4 {
+        height: 49px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: #3C3679;
+        font-family: 'Plus Jakarta Sans';
+        font-weight: 700;
+        font-size: 14px !important;
+        line-height: 18px !important;
+        color: white !important;
+        border-top-left-radius: 50px;
+        border-top-right-radius: 50px;
+    }
+
+    .media-icon {
+        height: 60px;
+        width: 60px;
+    }
+
+    .new-visitors2 {
+        position: absolute;
+        bottom: 16%;
+        right: 6%;
+    }
+
+    .business {
+        position: absolute;
+        width: 22vw;
+        bottom: 9%;
+        right: 18%;
+    }
+
+    .blue-star {
+        position: absolute;
+        width: 4vw;
+        top: -13%;
+        left: 0%;
+    }
+
+    .blue-flame {
+        position: absolute;
+        width: 2vw;
+        height: auto;
+        top: -4%;
+        right: 32%;
+    }
+
+    .btn-pink2 {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 50px;
+        padding: 8px 12px;
+        border: none;
+
+        width: 18vw !important;
+        max-width: 140px;
+        height: 8vh;
+        max-height: 50px;
+
+        background: #FAE0E1;
+        border-radius: 5px;
+
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 18px;
+
+        color: #131126;
+    }
+
+    .purple-txt {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 28px;
+    }
+
+    .bg-purple {
+        margin-top: 100px !important;
+        margin-bottom: 100px !important;
+        background-color: #3C3679;
+        border-radius: 5px;
+        color: white;
+    }
+
+    .purple-txt {
+        font-family: 'Plus Jakarta Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 22px;
+        line-height: 28px;
+    }
+
+    .girl2 {
+        margin: -4vw -6vh;
+        height: 100%;
+    }
+
+    .form-label, .form-control {
+        max-width: 350px;
+        margin-left: -3%;
+    }
+
+
+    .bg-grey {
+        background-color: #F5F5F5 !important;
+        border: none !important;
+    }
+    
 }
